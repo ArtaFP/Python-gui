@@ -1,2 +1,2 @@
 # Python-gui
-this is a gui with python only for educational purposes.
+this is an example of a gui made with python.
